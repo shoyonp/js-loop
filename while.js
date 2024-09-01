@@ -6,7 +6,7 @@ console.log('somthing new is cooking');
 
 //  while loop
 let num = 0; // loop variable
-while(num < 5){
+while(num < 5){ //loop condition
     console.log('siuuu', num);
     // num = num + 1;
     // num =+ 1;
