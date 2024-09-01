@@ -12,3 +12,11 @@ while(num < 5){
     // num =+ 1;
     num++;
 }
+
+
+let ok = 0;
+// let msg = 'you are my punu';
+while(ok <= 60){
+    console.log('you are my punu');
+    ok++;
+}
